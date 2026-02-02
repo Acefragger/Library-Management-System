@@ -1,0 +1,21 @@
+Atomic Habits|James Clear|9780735211292|1|None
+The Great Gatsby|F. Scott Fitzgerald|9780743273565|1|None
+To Kill a Mockingbird|Harper Lee|9780061120084|1|None
+1984|George Orwell|9780451524935|1|None
+C++ Primer|Stanley Lippman|9780321714114|1|None
+Clean Code|Robert C. Martin|9780132350884|1|None
+The Hobbit|J.R.R. Tolkien|9780547928227|1|None
+Brave New World|Aldous Huxley|9780060850524|1|None
+The C++ Programming Language|Bjarne Stroustrup|9780321563842|1|None
+Design Patterns|Erich Gamma|9780201633610|1|None
+Introduction to Algorithms|Thomas Cormen|9780262033848|1|None
+The Catch in the Rye|J.D. Salinger|9780316769488|1|None
+Fahrenheit 451|Ray Bradbury|9781451673319|1|None
+The Pragmatic Programmer|Andrew Hunt|9780201616224|1|None
+Artificial Intelligence: A Modern Approach|Stuart Russell|9780136042594|1|None
+The Art of Computer Programming|Donald Knuth|9780201896831|1|None
+Cracking the Coding Interview|Gayle Laakmann McDowell|9780984782857|1|None
+Structure and Interpretation of Computer Programs|Harold Abelson|9780262510875|1|None
+Effective C++|Scott Meyers|9780321334879|1|None
+The Shining|Stephen King|9780307743657|1|None
+Dune|Frank Herbert|9780441172719|0|7400
